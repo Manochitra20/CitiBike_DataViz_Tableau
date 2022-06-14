@@ -7,7 +7,7 @@
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
-However, while the data has been regularly updated, the team has yet to implemented a dashboard or sophisticated reporting process. The task is to to generate regular reports for city officials looking to publicize and improve the city program.
+However, while the data has been regularly updated, the team has yet to implemented a dashboard or sophisticated reporting process. The task is to generate regular reports for city officials looking to publicize and improve the city program.
 
 ## Project scope
 
